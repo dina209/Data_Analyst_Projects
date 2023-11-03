@@ -34,7 +34,7 @@ speaker_description — описание профессиональной дея
 Необходимо исследовать историю TED-конференций и создать дашборд в Tableau на основе полученных данных.
 
 ## Визуализация
-[Дашборд](//https://public.tableau.com/views/Tedresearchproject/TED2008-2021?:language=en-US&:display_count=n&:origin=viz_share_link "Заголовок ссылки")
+[Дашборд](//https://public.tableau.com/app/profile/dinara.chotanova/viz/Tedresearchproject/TED2008-2021#1 "Заголовок ссылки")
 
 ## Общий вывод
 В результате работы построен дашборд и выполнена визуализация истории выступлений TED:
