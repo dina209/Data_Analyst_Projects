@@ -22,11 +22,11 @@
 
 
 [Дашборд](https://public.tableau.com/app/profile/dinara.chotanova/viz/Tedresearchproject/TED2008-2021#1 "Заголовок ссылки")
-[1 Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов].(https://github.com/dina209/Data_Analyst_Projects/tree/main/01%20Basic%20Python "Заголовок ссылки")
-[1 Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/dina209/Data_Analyst_Projects/tree/main/01%20Basic%20Python)
-https://github.com/dina209/Data_Analyst_Projects/tree/main/01%20Basic%20Python "Заголовок ссылки")
 
-[ Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов].(https://github.com/dina209/Data_Analyst_Projects/tree/main/01%20Basic%20Python "Заголовок ссылки")
+[1 Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/dina209/Data_Analyst_Projects/tree/main/01%20Basic%20Python "Заголовок ссылки")
+
+
+
 
 
 
