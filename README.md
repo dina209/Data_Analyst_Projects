@@ -19,7 +19,7 @@
 
 
 
-https://github.com/dina209/Data_Analyst_Projects/tree/main/09%20How%20to%20tell%20a%20story%20using%20data
+
 [Текст ссылки](адрес://ссылки.здесь "Заголовок ссылки")
 
 
